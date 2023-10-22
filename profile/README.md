@@ -104,7 +104,7 @@ Our journey at KJ-GDSC is an ever-evolving tech odyssey. We invite you to explor
 - LinkedIn: [KJC GDSC](https://www.linkedin.com/groups/14304525/)
 - Instagram: [Follow us](https://www.instagram.com/gdsc.kjc/?igshid=MzRlODBiNWFlZA%3D%3D)
 
-## Collaborators for the this README.md
+## Collaborators for this README.md
 
 ![Collaborators](https://contrib.rocks/image?repo=KJC-GDSC/.github)
 
