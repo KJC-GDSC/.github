@@ -1,33 +1,13 @@
-# KJ GDSC
+# KJDG
 
-![GDSC Kristu Jayanti College](https://github.com/KJC-GDSC/KGUB/assets/85097731/5592c432-e39a-4a03-8b0b-6c8d4d4888cc)
-
-## Table of Contents
-- [Introduction KJGDSC](##Introduction)
-- [About Us](##Aboutus)
-- [Teams](#Teams)
-    - [DSA](#DSA-Team)
-    - [BackEnd](#BackEnd-Team)
-    - [AppDev](#AppDev-Team)
-    - [WebDev](#WebDev-Team)
-    - [AI/ML](#AI/ML-Team)
-    - [Media](#Media-Team)
-    - [Design](#Design-Team)
-- [What We Do](##Whatwedo)
-- [Our Mission](##OurMission)
-- [Join Our Journey](##JoinOurJourney)
-- [Get Involved](##GetInvolved)
-- [Our Commitment](##OurCommitment)
-- [Let's Build the Future Together](##LetsBuildTheFutureTogether)
-- [Connect With Us](##ConnectWithUs)
 
 ## Introduction
 
-Welcome to the official GitHub repository of KJC GDSC, the Google Developer Student Clubs at Kristu Jayanti College [Autonomous]. We are a dynamic community of tech enthusiasts, students, and innovators who are dedicated to making a positive impact on both our college and society through technology.
+Welcome to the official GitHub repository of KJDG, the Developers' Group at Kristu Jayanti College [Autonomous]. We are a dynamic community of tech enthusiasts, students, and innovators who are dedicated to making a positive impact on both our college and society through technology.
 
 ## About Us
 
-At KJ-GDSC, we're not just a student club; we're a passionate community of future developers, designers, and innovators from Kristu Jayanti College. Our mission is to empower students with the knowledge, skills, and resources needed to thrive in the world of technology.
+At KJDG, we're not just a student club; we're a passionate community of future developers, designers, and innovators from Kristu Jayanti College. Our mission is to empower students with the knowledge, skills, and resources needed to thrive in the world of technology.
 
 ## Teams
 - ### DSA Team
@@ -87,7 +67,7 @@ If you're passionate about technology and innovation, we welcome you to join our
 
 **Collaborate**: If you have ideas for collaborations, projects, or events, feel free to reach out to us. We're always open to new partnerships and initiatives. 
 
-You can also check out our [project repository](https://github.com/KJC-GDSC) to see what we're currently working on.
+You can also check out our [project repository](https://github.com/KJC-KJDG) to see what we're currently working on.
 
 ## Our Commitment
 
@@ -100,13 +80,9 @@ Our journey at KJ-GDSC is an ever-evolving tech odyssey. We invite you to explor
 
 ## Connect With Us
 
-- Website: [website](https://gdsc.community.dev/kristu-jayanti-college-bengaluru/)
-- LinkedIn: [KJC GDSC](https://www.linkedin.com/groups/14304525/)
-- Instagram: [Follow us](https://www.instagram.com/gdsc.kjc/?igshid=MzRlODBiNWFlZA%3D%3D)
-
-## Collaborators for this README.md
-
-![Collaborators](https://contrib.rocks/image?repo=KJC-GDSC/.github)
+- Website: [website]
+- LinkedIn: [KJC GDSC]
+- Instagram: [Follow us]
 
 ---
 Keep coding, keep innovating!
